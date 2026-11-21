@@ -2,7 +2,7 @@
 
 **`Computer Engineering Student | Systems Development (ETEC)`**
 
-Olá! Sou o Lucas, tenho 45 anos, sou natural da Bahia e apaixonado por tecnologia. Estou construindo minha carreira em desenvolvimento de sistemas, estudando em duas frentes e praticando todos os dias com projetos reais.
+Olá! Sou o Lucas, tenho 45 anos, sou apaixonado por tecnologia. Estou construindo minha carreira em desenvolvimento de sistemas, estudando em duas frentes e praticando todos os dias com projetos reais.
 
 ### 🎓 Formação
 
