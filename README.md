@@ -4,10 +4,7 @@
 
 > *Transformando estudo em código e código em soluções.*
 
-[![Univesp](https://img.shields.io/badge/Univesp-Engenharia%20da%20Computa%C3%A7%C3%A3o-236ad3?style=for-the-badge)](https://univesp.br/engenharia-de-computacao/)
-
-[![ETEC](https://img.shields.io/badge/ETEC-Desenvolvimento%20de%20Sistemas-55960c?style=for-the-badge)](https://etecsp.cps.sp.gov.br/desenvolvimento-de-sistemas/)
-
+[![Univesp](https://img.shields.io/badge/Univesp-Engenharia%20da%20Computa%C3%A7%C3%A3o-236ad3?style=for-the-badge)](https://univesp.br/engenharia-de-computacao/) [![ETEC](https://img.shields.io/badge/ETEC-Desenvolvimento%20de%20Sistemas-55960c?style=for-the-badge)](https://etecsp.cps.sp.gov.br/desenvolvimento-de-sistemas/)
 - 🔭 **Estudando:** Engenharia da Computação (Univesp) e Desenvolvimento de Sistemas (ETEC)
 - 🌱 **Aprendendo:** JavaScript, PHP e bancos de dados
 - 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript, PHP e SQL
