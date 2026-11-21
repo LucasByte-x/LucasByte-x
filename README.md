@@ -1,6 +1,23 @@
-# 👨‍💻 Lucas Melo
+# 💻 Lucas Melo
 
 **`Computer Engineering Student | Systems Development (ETEC)`**
+
+> *Transformando estudo em código e código em soluções.*
+
+![Univesp](https://img.shields.io/badge/Univesp-Engenharia%20da%20Computa%C3%A7%C3%A3o-236ad3?style=for-the-badge)
+![ETEC](https://img.shields.io/badge/ETEC-Desenvolvimento%20de%20Sistemas-55960c?style=for-the-badge)
+![Foco](https://img.shields.io/badge/Foco-Full%20Stack-E34F26?style=for-the-badge)
+
+- 🔭 **Estudando:** Engenharia da Computação (Univesp) e Desenvolvimento de Sistemas (ETEC)
+- 🌱 **Aprendendo:** JavaScript, PHP e bancos de dados
+- 💬 **Pergunte-me sobre:** HTML, CSS, JavaScript, PHP e SQL
+- 📍 **Localização:** São Paulo - SP
+- 🎯 **Objetivo:** atuar como desenvolvedor Full Stack
+
+<a href="https://www.linkedin.com/in/lucas-melo-da-silva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=lucasbytex@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+---
 
 Olá! Sou o Lucas, tenho 45 anos, sou apaixonado por tecnologia. Estou construindo minha carreira em desenvolvimento de sistemas, estudando em duas frentes e praticando todos os dias com projetos reais.
 
