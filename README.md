@@ -23,13 +23,15 @@ Olá! Sou o Lucas, tenho 45 anos, sou apaixonado por tecnologia. Estou construin
 - **Engenharia da Computação**, Univesp (6º semestre)
 - **Técnico em Desenvolvimento de Sistemas**, ETEC (3º semestre)
 
-### 📚 Cursos complementares (IFRS)
+### 🏅 Certificados
 
-- Administrador de Banco de Dados (200 h): conceitos, SQL, PostgreSQL, MySQL e administração
-- HTML5, CSS3, JavaScript e PHP
-- PHP com Programação Orientada a Objetos e MySQL
-- Oracle PL/SQL
-- Projeto de Sistemas Web
+| Curso | Instituição | Carga horária | Conclusão |
+|---|---|---|---|
+| Administrador de Banco de Dados | IFRS | 200 h | 20/11/2026 |
+| HTML5, CSS3, JavaScript e PHP | IFRS | - | - |
+| PHP com Programação Orientada a Objetos e MySQL | IFRS | - | - |
+| Oracle PL/SQL | IFRS | - | - |
+| Projeto de Sistemas Web | IFRS | - | - |
 
 ### 🚀 Projetos
 
