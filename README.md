@@ -2,13 +2,41 @@
 
 **`Computer Engineering Student | Systems Development (ETEC)`**
 
-Me chamo Lucas Melo, tenho 45 anos e sou natural da Bahia. Concluí o ensino médio e estou cursando o técnico em Desenvolvimento de Sistemas na ETEC (3º semestre) e Engenharia da Computação na Univesp (6º semestre).
+Olá! Sou o Lucas, tenho 45 anos, sou natural da Bahia e apaixonado por tecnologia. Estou construindo minha carreira em desenvolvimento de sistemas, estudando em duas frentes e praticando todos os dias com projetos reais.
 
-Sou apaixonado por tecnologia e compartilho meu conhecimento no GitHub, onde ensino a criar projetos web, e no Instagram, pelo perfil **Dev em Dev**.
+### 🎓 Formação
 
-🔗 LinkedIn: [linkedin.com/in/lucas-melo-da-silva](https://www.linkedin.com/in/lucas-melo-da-silva)
-📧 E-mail: [lucasbytex@gmail.com](mailto:lucasbytex@gmail.com)
-👤 Lucas Byte_x
+- **Engenharia da Computação**, Univesp (6º semestre)
+- **Técnico em Desenvolvimento de Sistemas**, ETEC (3º semestre)
+
+### 📚 Cursos complementares (IFRS)
+
+- Administrador de Banco de Dados (200 h): conceitos, SQL, PostgreSQL, MySQL e administração
+- HTML5, CSS3, JavaScript e PHP
+- PHP com Programação Orientada a Objetos e MySQL
+- Oracle PL/SQL
+- Projeto de Sistemas Web
+
+### 🚀 Projetos
+
+- **AcompanhaMed:** TCC em grupo de uma plataforma que conecta pessoas que precisam de acompanhamento em consultas e exames a profissionais verificados, com notificação e aceite em tempo real, favoritos e validação de antecedentes criminais. Inclui site, aplicativo mobile, sistema desktop administrativo e banco de dados MySQL.
+- **Good Market:** sistema web acadêmico para gestão de escalas e horários de colaboradores de um restaurante.
+
+### 🎯 No que estou focado
+
+- Lógica de programação e algoritmos com JavaScript
+- Modelagem e administração de bancos de dados (MER, DER, SQL)
+- Desenvolvimento web, do front-end ao back-end
+
+### 🤝 Compartilhando o que aprendo
+
+Gosto de aprender e de ensinar: aqui no GitHub eu mostro como criar projetos web, e no Instagram você me encontra pelo perfil **Dev em Dev**.
+
+### 📫 Contato
+
+- 🔗 **LinkedIn:** [linkedin.com/in/lucas-melo-da-silva](https://www.linkedin.com/in/lucas-melo-da-silva)
+- 📧 **E-mail:** [lucasbytex@gmail.com](mailto:lucasbytex@gmail.com)
+- 👤 **Instagram:** Lucas Byte_x
 
 <p align="left">
     <a href="https://github.com/LucasByte-x?tab=repositories&sort=stargazers">
