@@ -23,15 +23,18 @@ Olá! Sou o Lucas, tenho 45 anos, sou apaixonado por tecnologia. Estou construin
 - **Engenharia da Computação**, Univesp (6º semestre)
 - **Técnico em Desenvolvimento de Sistemas**, ETEC (3º semestre)
 
-### 🏅 Certificados
+### 🏅 Certificados (IFRS)
 
 | Curso | Instituição | Carga horária | Conclusão |
 |---|---|---|---|
-| Administrador de Banco de Dados | IFRS | 200 h | 20/11/2026 |
-| HTML5, CSS3, JavaScript e PHP | IFRS | - | - |
-| PHP com Programação Orientada a Objetos e MySQL | IFRS | - | - |
-| Oracle PL/SQL | IFRS | - | - |
-| Projeto de Sistemas Web | IFRS | - | - |
+| Administrador de Banco de Dados[cite: 16] | IFRS[cite: 16] | 200 h[cite: 16] | 20/11/2026[cite: 16] |
+| HTML5: Fundamentos para Construção de Páginas Web Modernas[cite: 8] | IFRS[cite: 8] | 40 h[cite: 8] | 26/10/2026[cite: 8] |
+| CSS3: Estilizando Páginas Web com Estilo[cite: 12] | IFRS[cite: 12] | 40 h[cite: 12] | 07/11/2026[cite: 12] |
+| JavaScript: Fundamentos para Desenvolvimento Web Interativo[cite: 6] | IFRS[cite: 6] | 40 h[cite: 6] | 26/10/2026[cite: 6] |
+| PHP para Iniciantes: Fundamentos Práticos para o Desenvolvimento Web[cite: 4] | IFRS[cite: 4] | 30 h[cite: 4] | 09/11/2026[cite: 4] |
+| Desenvolvimento Backend com PHP: POO e Integração com MySQL[cite: 10] | IFRS[cite: 10] | 30 h[cite: 10] | 06/11/2026[cite: 10] |
+| Banco de Dados: Oracle PL/SQL[cite: 14] | IFRS[cite: 14] | 20 h[cite: 14] | 06/11/2026[cite: 14] |
+| Projeto de Sistemas Web[cite: 2] | IFRS[cite: 2] | 30 h[cite: 2] | 09/11/2026[cite: 2] |
 
 ### 🚀 Projetos
 
