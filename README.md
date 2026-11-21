@@ -40,7 +40,10 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento no GitHub, onde ens
     <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img alt="Oracle" title="Oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
     <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+        <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.simpleicons.org/github/181717" />
+    </picture>
 </p>
 
 ---
@@ -64,8 +67,3 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento no GitHub, onde ens
         src="https://github-readme-stats.vercel.app/api?username=LucasByte-x&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
     <img
-        alt="Linguagens mais usadas"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasByte-x&layout=compact&theme=tokyonight&locale=pt-br"
-    />
-</p>
