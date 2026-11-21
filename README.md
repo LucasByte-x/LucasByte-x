@@ -4,8 +4,8 @@
 
 > *Transformando estudo em código e código em soluções.*
 
-![Univesp](https://img.shields.io/badge/Univesp-Engenharia%20da%20Computa%C3%A7%C3%A3o-236ad3?style=for-the-badge)
-![ETEC](https://img.shields.io/badge/ETEC-Desenvolvimento%20de%20Sistemas-55960c?style=for-the-badge)
+[![Univesp](https://img.shields.io/badge/Univesp-Engenharia%20da%20Computa%C3%A7%C3%A3o-236ad3?style=for-the-badge)](https://univesp.br)
+[![ETEC](https://img.shields.io/badge/ETEC-Desenvolvimento%20de%20Sistemas-55960c?style=for-the-badge)](https://www.cps.sp.gov.br)
 ![Foco](https://img.shields.io/badge/Foco-Full%20Stack-E34F26?style=for-the-badge)
 
 - 🔭 **Estudando:** Engenharia da Computação (Univesp) e Desenvolvimento de Sistemas (ETEC)
