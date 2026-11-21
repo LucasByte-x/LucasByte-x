@@ -35,8 +35,7 @@ Gosto de aprender e de ensinar: aqui no GitHub eu mostro como criar projetos web
 ### 📫 Contato
 
 - 🔗 **LinkedIn:** [linkedin.com/in/lucas-melo-da-silva](https://www.linkedin.com/in/lucas-melo-da-silva)
-- 📧 **E-mail:** [lucasbytex@gmail.com](mailto:lucasbytex@gmail.com)
-- 👤 **Instagram:** Lucas Byte_x
+- 📧 **E-mail:** [lucasbytex@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=lucasbytex@gmail.com)
 
 <p align="left">
     <a href="https://github.com/LucasByte-x?tab=repositories&sort=stargazers">
@@ -95,3 +94,8 @@ Gosto de aprender e de ensinar: aqui no GitHub eu mostro como criar projetos web
         src="https://github-readme-stats.vercel.app/api?username=LucasByte-x&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
     <img
+        alt="Linguagens mais usadas"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasByte-x&layout=compact&theme=tokyonight&locale=pt-br"
+    />
+</p>
