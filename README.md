@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👨🏼‍💻 Lucas Melo 💾
 
-<!--
-**LucasByte-x/LucasByte-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Computer Engineering Student | Systems Development (ETEC)`**
 
-Here are some ideas to get you started:
+Me chamo Lucas Melo, tenho 45 anos e sou natural da Bahia. Concluí o ensino médio e estou cursando o técnico em Desenvolvimento de Sistemas na ETEC (3º semestre) e Engenharia da Computação na Univesp (6º semestre).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia e compartilho meu conhecimento no GitHub, onde ensino a criar projetos web, e no Instagram, pelo perfil **Dev em Dev**.
+
+🔗 LinkedIn: [linkedin.com/in/lucas-melo-da-silva](https://www.linkedin.com/in/lucas-melo-da-silva)
+📧 E-mail: [lucasbytex@gmail.com](mailto:lucasbytex@gmail.com)
+👤 Lucas Byte_x
+
+<p align="left">
+    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/SEU_USUARIO?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+    <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    <img alt="Oracle" title="Oracle" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+    <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+    <img
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+    <img
+        alt="Linguagens mais usadas"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&locale=pt-br"
+    />
+</p>
