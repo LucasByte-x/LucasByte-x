@@ -1,4 +1,4 @@
-# 👨🏼‍💻 Lucas Melo 💾
+# 👨‍💻 Lucas Melo
 
 **`Computer Engineering Student | Systems Development (ETEC)`**
 
@@ -11,18 +11,18 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento no GitHub, onde ens
 👤 Lucas Byte_x
 
 <p align="left">
-    <a href="https://github.com/SEU_USUARIO?tab=repositories&sort=stargazers">
+    <a href="https://github.com/LucasByte-x?tab=repositories&sort=stargazers">
         <img
             alt="Total de estrelas"
             title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/SEU_USUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/LucasByte-x?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/SEU_USUARIO?tab=followers">
+    <a href="https://github.com/LucasByte-x?tab=followers">
         <img
             alt="Seguidores"
             title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU_USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/LucasByte-x?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -51,11 +51,11 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento no GitHub, onde ens
     <img
         alt="GitHub Stats"
         height="200"
-        src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=LucasByte-x&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
     />
     <img
         alt="Linguagens mais usadas"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasByte-x&layout=compact&theme=tokyonight&locale=pt-br"
     />
 </p>
